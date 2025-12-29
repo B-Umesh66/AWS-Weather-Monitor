@@ -86,7 +86,6 @@ All sensitive information is kept outside the repository to prevent accidental e
 
 - Mutual TLS authentication ensures secure device identity  
 - Certificates are stored in program memory to optimize RAM usage  
-- Sensitive files are excluded using `.gitignore`  
 - Secure communication prevents unauthorized access  
 
 ---
