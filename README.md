@@ -98,7 +98,3 @@ All sensitive information is kept outside the repository to prevent accidental e
 - OTA firmware updates  
 - AWS IoT Device Shadow support  
 - Dashboard visualization using AWS services
-
----
-## ✨ Project Image
-![IMG_20250610_093808](https://github.com/user-attachments/assets/b9a68b91-c174-4830-bda0-3e3d78d7bb4a)
