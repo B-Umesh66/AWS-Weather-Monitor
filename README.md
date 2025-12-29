@@ -1,5 +1,7 @@
 # AWS Weather Monitor (ESP8266)
 
+![AWS Weather Monitor ESP8266](images/project-overview.jpg)
+
 AWS Weather Monitor is an IoT project that connects an ESP8266 microcontroller to **AWS IoT Core** to securely publish simulated weather data using MQTT over TLS.
 
 The project demonstrates how resource-constrained devices can communicate securely with cloud platforms using certificates, time synchronization, and lightweight messaging protocols.
